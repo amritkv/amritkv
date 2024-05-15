@@ -11,6 +11,6 @@ Hi, my name is Amrit Kumar Verma and I work as a Research Enginner at SIEMENS Re
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritkv&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonreznov&layout=compact&theme=dark)](https://masonreznov.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amritkv&layout=compact&theme=dark)](https://amritkv.github.io/)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=masonreznov&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amritkv&theme=dark)
