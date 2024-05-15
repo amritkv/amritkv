@@ -1,6 +1,6 @@
 
 <h1 align="center">:coffee: Greetings from <a href="https://amritkv.github.io/">Amrit</a> :coffee:</h1>
-<h3 align="center">Research Scientist (AI) @Crimson AI | PhD :book:</h3> 
+<h3 align="center">Research Engineer @Siemens Research India :book:</h3> 
 
 ![](https://komarev.com/ghpvc/?username=masonreznov&style=flat&label=VISITS)
 
