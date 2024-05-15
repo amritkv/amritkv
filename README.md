@@ -6,8 +6,7 @@
 
 Hi, my name is Amrit Kumar Verma and I work as a Research Enginner at SIEMENS Research India.
 
-#### Connect me:  [📫](mailto:salam_rs@cse.nits.ac.in)  <a href="https://www.linkedin.com/in/amritkumarverma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-salam" height="12" width="16" /></a> <a href="https://twitter.com/michael_salam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michael_salam_" height="12" width="16" /></a>
-
+#### Connect me:  [📫](mailto:er,akverma8@gmail.com)  <a href="https://www.linkedin.com/in/amritkumarverma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit-kumar-verma" height="12" width="16" /></a> 
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritkv&show_icons=true&theme=dark&count_private=true)
 
