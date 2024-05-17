@@ -8,7 +8,7 @@ Hi, my name is Amrit Kumar Verma and I work as a Research Enginner at SIEMENS Re
 
 #### Connect me:  [📫](mailto:er.akverma8@gmail.com)  <a href="https://www.linkedin.com/in/amritkumarverma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit-kumar-verma" height="12" width="16" /></a> 
 
-![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritkv&show_icons=true&theme=dark&count_private=false)
+![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritkv&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amritkv&layout=compact&theme=dark)](https://amritkv.github.io/)
 
