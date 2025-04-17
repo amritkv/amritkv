@@ -17,7 +17,7 @@ Hi, my name is Amrit Kumar Verma and I work as a Research Engineer at SIEMENS Re
 ![Amrit's overall contributions & streaks](https://github-readme-streak-stats.herokuapp.com/?user=amritkv&theme=dark)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suvrat1629/Suvrat1629/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suvrat1629/Suvrat1629/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Suvrat1629/Suvrat1629/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amritkv/amritkv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amritkv/amritkv/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amritkv/amritkv/output/github-snake.svg" />
 </picture>
