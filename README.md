@@ -14,7 +14,12 @@ Hi, my name is Amrit Kumar Verma and I work as a Research Engineer at SIEMENS Re
 
 ![Amrit's contribution stats](https://github-contributor-stats.vercel.app/api?username=amritkv&hide_contributor_rank=false&order_by=contributions&theme=dark)
 
-![Amrit's overall contributions & streaks](https://github-readme-streak-stats.herokuapp.com/?user=amritkv&theme=dark)
+![Amrit's overall contributions & streaks](https://github-readme-streak-stats.herokuapp.com/?user=amritkv&theme=dracula)
+
+
+<summary>Github Trophies</summary>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=amritkv&theme=onedark">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amritkv/output/github-snake-dark.svg" />
